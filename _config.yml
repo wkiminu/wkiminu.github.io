@@ -10,15 +10,15 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Woojung Kim"
-resume_title:                   "abcd at the Graduate School of Logistics at the Incheon National University"
+resume_name:                    "Woojung Kim, Ph.D."
+resume_title:                   "Assistant Professor at the Graduate School of Logistics at the Incheon National University"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "[TBA]"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "[TBD]"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "[TBA]"
+resume_contact_address:         "[TBA]"
 
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
