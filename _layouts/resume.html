@@ -146,7 +146,9 @@
         </header>
         {% for skill in site.data.skills %}
         <div class="resume-item">
-          <li>{{ skill.skill }}</li>
+          <ol type="1">
+            <li>{{ skill.skill }}</li>
+          </ol>
           <p class="resume-item-copy">{{ skill.description }}</p>
         </div>
         {% endfor %}
