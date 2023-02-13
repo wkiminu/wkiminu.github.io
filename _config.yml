@@ -1,6 +1,6 @@
 # Site settings
-title: "CV"
-description: "CV"
+title: "Resume"
+description: "Resume"
 
 # Build settings
 markdown: kramdown
