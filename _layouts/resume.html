@@ -150,7 +150,8 @@
           <p class="resume-item-copy">{{ skill.description }}</p>
         </div>
         {% endfor %}
-
+        
+        
       </section>
       <!-- end Skills -->
       {% endif %}
@@ -206,11 +207,15 @@
         <div class="resume-item">
           <ul class="resume-item-list">
             {% for link in site.data.links %}
+           <div class="resume-item">
             <li> {{ link.description }} </li>
+            <p class="resume-item-copy">{{ link.description }}</p>
+           </div>
             {% endfor %}
           </ul>
         </div>
-
+        
+        
       </section>
       <!-- end Links -->
       {% endif %}
