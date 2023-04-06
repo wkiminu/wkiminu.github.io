@@ -204,16 +204,13 @@
           <h2>Professional Services</h2>
         </header>
         
-        <div class="resume-item">
-          <ul class="resume-item-list">
-            {% for link in site.data.links %}
+           {% for link in site.data.links %}
            <div class="resume-item">
             <li> {{ link.description }} </li>
             <p class="resume-item-copy">{{ link.description }}</p>
            </div>
-            {% endfor %}
-          </ul>
-        </div>
+           {% endfor %}
+
         
         
       </section>
