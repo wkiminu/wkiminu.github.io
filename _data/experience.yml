@@ -1,17 +1,20 @@
 # Jobs
 
 # INU
-- company: Incheon National University
+- company: Incheon National University (INU)
   position: Assistant Professor
   duration: 2023 &mdash; Present
-  #  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+
+# INU2
+- company: Center for Innovations in Smart Logistics Systems at INU
+  position: Deputy Director
+  duration: 2023 &mdash; Present
 
 
 # SNU
 - company: Seoul National University
   position: Lecturer
   duration: 2022
-  #  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
 
 
 # Rpi
